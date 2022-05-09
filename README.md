@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Levyryan67
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Levyryan67/Levyryan67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm Levy Ryan
+- 👀 I'm interested in being a programmer
+- 🌱 I'm learning python
+- 💞️ I'm looking to collaborate on artificial intelligence
+- 📫 How to contact me, email:levyryango.oliveira@gmail.com

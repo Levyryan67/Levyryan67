@@ -2,4 +2,4 @@
 - 👀 I'm interested in being a programmer
 - 🌱 I'm learning python
 - 💞️ I'm looking to collaborate on artificial intelligence
-- 📫 How to contact me, email:levyeluna.2019@gmail.com
+- 📫 How to contact me, email:levyryango@rottprogramming.software
